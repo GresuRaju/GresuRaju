@@ -1,145 +1,167 @@
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6366F1&center=true&vCenter=true&width=490&lines=Hi+there%2C+I'm+Gresu+Raju+%F0%9F%91%8B;B.Tech+AIML+Graduate;Aspiring+Software+%26+AI%2FML+Engineer;Building+Scalable+Backend+Systems;Crafting+Intelligent+Solutions" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6366f1&center=true&vCenter=true&width=435&lines=B.Tech+AIML+Graduate;Backend+Developer;Python+Developer;FastAPI+Developer;AI%2FML+Engineer;Data+Analyst" alt="Typing SVG" /></a>
 </div>
 
 <div align="center">
-  <p>I'm Gresu Raju, a B.Tech graduate in Artificial Intelligence & Machine Learning with a strong foundation in backend development and intelligent system design. My expertise spans Python, FastAPI, and machine learning, enabling me to build scalable APIs and insightful data solutions.</p>
-  <p>I am passionate about leveraging technology to solve complex problems and am actively seeking entry-level Software Developer, Backend Developer, Python Developer, FastAPI Developer, AI/ML Engineer, and Data Analytics roles to contribute to innovative projects.</p>
+  <p>Hello! I'm <b>Gresu Raju Talari</b>, an enthusiastic B.Tech Artificial Intelligence & Machine Learning graduate (2026) from Vignan's Lara Institute of Technology & Science. I am passionate about crafting robust backend solutions, developing intelligent AI/ML systems, and extracting actionable insights from data.</p>
+  <p>I am actively seeking entry-level opportunities as a Software Developer, Backend Developer, Python Developer, FastAPI Developer, AI/ML Engineer, or Data Analyst, where I can apply my technical skills and contribute to innovative projects.</p>
 </div>
 
 <div align="center">
-  <h3>🛠️ Technologies & Tools</h3>
+  <h3>🚀 My Core Tech Stack</h3>
   <p>
-    <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/>
-    <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
-    <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
-    <img src="https://img.shields.io/badge/Machine%20Learning-FF6600?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Machine Learning"/>
-    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-    <img src="https://img.shields.io/badge/REST%20APIs-007ACC?style=for-the-badge&logo=rest&logoColor=white" alt="REST APIs"/>
-    <img src="https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-orange?style=for-the-badge&logo=leetcode&logoColor=white" alt="DSA"/>
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-    <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+    <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
+    <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+    <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
+    <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Machine Learning" />
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/REST%20APIs-00599C?style=for-the-badge&logo=rest&logoColor=white" alt="REST APIs" />
+    <img src="https://img.shields.io/badge/Data%20Structures-FF7800?style=for-the-badge&logo=leetcode&logoColor=white" alt="Data Structures & Algorithms" />
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+    <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   </p>
 </div>
 
 <div align="center">
-  <a href="https://github.com/GresuRaju">
-    <img src="https://github-readme-stats.vercel.app/api?username=GresuRaju&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Gresu Raju's GitHub Stats"/>
-  </a>
-  <a href="https://github.com/GresuRaju">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GresuRaju&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Gresu Raju's Top Languages"/>
-  </a>
-</div>
-
-<div align="center">
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com/?user=GresuRaju&theme=tokyonight&hide_border=true" alt="GitHub Streak"/></a>
-</div>
-
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=GresuRaju&theme=tokyonight&no-frame=true&no-bg=true" alt="GitHub Trophies" /></a>
-</div>
-
-<div align="center">
-  <a href="https://github.com/GresuRaju/github-readme-activity-graph"><img alt="Gresu Raju's GitHub Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=GresuRaju&theme=tokyo-night&hide_border=true" /></a>
-</div>
-
-<div align="center">
-  <h3>🚀 Projects</h3>
+  <h3>✨ Featured Projects</h3>
+  <p>Here are some of the key projects I've developed, showcasing my skills in AI/ML, backend development, and data analysis:</p>
   <ul>
     <li>
-      <h4><a href="https://github.com/GresuRaju/ResumeIQ">ResumeIQ: AI-powered Resume Analyzer</a></h4>
-      <p>Developed an AI-powered platform for resume analysis and ATS (Applicant Tracking System) scoring. Features include robust resume parsing, ATS score calculation, and detailed job match analysis.</p>
+      <b>ResumeIQ: AI-powered ATS Scoring Platform</b>
       <ul>
-        <li><strong>Technologies:</strong> FastAPI, React, PostgreSQL, JWT Authentication, AI/ML</li>
+        <li>An intelligent platform for analyzing resumes, generating ATS compatibility scores, and matching candidates to job descriptions.</li>
+        <li><b>Tech Stack:</b> FastAPI, React, PostgreSQL, JWT Authentication.</li>
+        <li><b>Impact:</b> Streamlines recruitment by automating resume parsing, skill extraction, and job fit analysis.</li>
       </ul>
     </li>
     <li>
-      <h4><a href="https://github.com/GresuRaju/AI-Data-Analyst-Pro">AI Dataset Analysis Chatbot</a></h4>
-      <p>Created a Rasa-based conversational AI chatbot designed for interactive dataset analysis and visualization. Integrates machine learning models to generate dashboards and provide insightful data summaries.</p>
+      <b>AI Dataset Analysis Chatbot</b>
       <ul>
-        <li><strong>Technologies:</strong> Rasa, Machine Learning, Python</li>
+        <li>A Rasa-based conversational AI chatbot designed for interactive dataset analysis and visualization.</li>
+        <li><b>Tech Stack:</b> Rasa, Python, Machine Learning libraries.</li>
+        <li><b>Impact:</b> Provides on-demand data insights, dashboard generation, and simplifies complex data exploration through natural language.</li>
       </ul>
     </li>
     <li>
-      <h4><a href="https://github.com/GresuRaju/Real-Time-Object-Detection-Mobile-App">Real-Time Object Detection Mobile App</a></h4>
-      <p>Engineered a Flutter-based mobile application capable of real-time object detection using an SSD model. Features include distance estimation and voice feedback for accessibility and enhanced user experience.</p>
+      <b>Real-Time Object Detection Mobile App</b>
       <ul>
-        <li><strong>Technologies:</strong> Flutter, SSD Object Detection Model, Dart</li>
+        <li>A Flutter-based mobile application capable of real-time object detection using a pre-trained SSD model.</li>
+        <li><b>Tech Stack:</b> Flutter, TensorFlow Lite (for SSD model).</li>
+        <li><b>Impact:</b> Offers distance estimation and voice feedback for accessibility and practical applications in various environments.</li>
       </ul>
     </li>
     <li>
-      <h4><a href="https://github.com/GresuRaju/Github-Pilot">GitHub Pilot: AI-powered Chrome Extension</a></h4>
-      <p>Developed an AI-powered Chrome extension to assist users in professionalizing their GitHub profiles. Leverages FastAPI, React, and Gemini AI for an interactive popup interface that provides profile enhancement suggestions.</p>
+      <b>GitHub Pilot: AI-Powered Chrome Extension</b>
       <ul>
-        <li><strong>Technologies:</strong> FastAPI, React, Machine Learning, Gemini AI, JavaScript</li>
+        <li>An AI-powered Chrome extension designed to professionalize GitHub profiles.</li>
+        <li><b>Tech Stack:</b> FastAPI, React, Machine Learning, Gemini AI.</li>
+        <li><b>Impact:</b> Provides an interactive popup screen to help users optimize their GitHub presence and attract recruiters.</li>
       </ul>
     </li>
   </ul>
 </div>
 
 <div align="center">
-  <h3>🏆 Achievements & Contributions</h3>
+  <h3>🏆 Achievements & Recognitions</h3>
   <ul>
-    <li>Solved <strong>100+ Data Structures & Algorithms (DSA) problems</strong> on LeetCode, enhancing problem-solving and algorithmic skills.</li>
-    <li>Conquered <strong>100+ Data Structures & Algorithms (DSA) problems</strong> on GeeksforGeeks, demonstrating a strong foundation in core computer science concepts.</li>
-    <li>Successfully developed and deployed <strong>multiple full-stack and AI-powered projects</strong>, showcasing practical application of theoretical knowledge.</li>
-    <li>Maintain an <strong>active presence and consistent contribution</strong> on GitHub, fostering collaboration and open-source practices.</li>
+    <li>Solved <b>100+ Data Structures & Algorithms (DSA) problems</b> on LeetCode, enhancing problem-solving and algorithmic skills.</li>
+    <li>Successfully tackled <b>100+ DSA problems</b> on GeeksforGeeks, demonstrating strong foundational computer science knowledge.</li>
+    <li>Developed and deployed multiple <b>full-stack and AI-powered projects</b>, showcasing practical application of theoretical knowledge.</li>
+    <li>Maintain an <b>active GitHub contribution streak</b>, reflecting consistent engagement and dedication to software development.</li>
   </ul>
 </div>
 
 <div align="center">
-  <h3>💻 Coding Profiles</h3>
+  <h3>🧑‍💻 Coding Profiles</h3>
   <p>
-    <a href="https://leetcode.com/u/ThalariGresuRaju/" target="_blank"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
-    <a href="https://www.geeksforgeeks.org/profile/talarigrjbv5" target="_blank"><img src="https://img.shields.io/badge/-GeeksforGeeks-2496ED?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks"/></a>
+    <a href="https://leetcode.com/u/ThalariGresuRaju/" target="_blank">
+      <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=orange" alt="LeetCode" />
+    </a>
+    <a href="https://www.geeksforgeeks.org/profile/talarigrjbv5" target="_blank">
+      <img src="https://img.shields.io/badge/GeeksforGeeks-2496ED?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" />
+    </a>
   </p>
 </div>
 
 <div align="center">
-  <h3>📚 Currently Learning & Exploring</h3>
-  <p>
-    <img src="https://img.shields.io/badge/Advanced%20FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="Advanced FastAPI"/>
-    <img src="https://img.shields.io/badge/System%20Design-FF6600?style=for-the-badge&logo=googlecloud&logoColor=white" alt="System Design"/>
-    <img src="https://img.shields.io/badge/Backend%20Architecture-informational?style=for-the-badge&logo=architect&logoColor=white" alt="Backend Architecture"/>
-    <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-    <img src="https://img.shields.io/badge/Cloud%20Deployment-blue?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="Cloud Deployment"/>
-  </p>
+  <a href="https://github.com/GresuRaju">
+    <img src="https://github-readme-stats.vercel.app/api?username=GresuRaju&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GresuRaju's GitHub Stats" />
+  </a>
+  <a href="https://github.com/GresuRaju">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GresuRaju&layout=compact&theme=tokyonight&hide_border=true" alt="GresuRaju's Top Languages" />
+  </a>
 </div>
 
 <div align="center">
-  <h3>💼 Open To Opportunities</h3>
-  <p>I am actively seeking roles as an:</p>
-  <p>
-    <img src="https://img.shields.io/badge/Entry--Level%20Software%20Developer-green?style=for-the-badge" alt="Entry-Level Software Developer"/>
-    <img src="https://img.shields.io/badge/Backend%20Developer-green?style=for-the-badge" alt="Backend Developer"/>
-    <img src="https://img.shields.io/badge/Python%20Developer-green?style=for-the-badge" alt="Python Developer"/>
-    <img src="https://img.shields.io/badge/FastAPI%20Developer-green?style=for-the-badge" alt="FastAPI Developer"/>
-    <img src="https://img.shields.io/badge/AI%2FML%20Engineer-green?style=for-the-badge" alt="AI/ML Engineer"/>
-    <img src="https://img.shields.io/badge/Internships-blue?style=for-the-badge" alt="Internships"/>
-    <img src="https://img.shields.io/badge/Freelance%20Opportunities-blue?style=for-the-badge" alt="Freelance Opportunities"/>
-  </p>
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=GresuRaju&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  </a>
 </div>
 
-<!--VISITOR_START-->
 <div align="center">
-  <p>
-    <img src="https://profile-counter.glitch.me/GresuRaju/count.svg?style=flat&color=6366f1" alt="Profile views"/>
-  </p>
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=GresuRaju&theme=tokyonight&no-bg=true&no-frame=true&row=1" alt="GitHub Trophies" />
+  </a>
 </div>
-<!--VISITOR_END-->
 
-<!--SOCIAL_START-->
 <div align="center">
-  <h3>🤝 Connect With Me</h3>
-  <p>
-    <a href="https://www.linkedin.com/in/gresu-raju-talari-0b4711298/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-    <a href="https://github.com/GresuRaju" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-    <a href="mailto:gresuraju.dev@email.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  </p>
+  <a href="https://github.com/GresuRaju/github-readme-activity-graph">
+    <img alt="GresuRaju's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=GresuRaju&theme=tokyonight&hide_border=true" />
+  </a>
 </div>
-<!--SOCIAL_END-->
+
+<div align="center">
+  <h3>📚 Currently Exploring</h3>
+  <p>I am continuously expanding my knowledge and skills in the following areas:</p>
+  <ul>
+    <li><b>Advanced FastAPI:</b> Deepening my expertise in building high-performance APIs.</li>
+    <li><b>System Design:</b> Learning to architect scalable, resilient, and maintainable systems.</li>
+    <li><b>Backend Architecture:</b> Exploring advanced patterns and best practices for robust backend development.</li>
+    <li><b>PostgreSQL:</b> Mastering advanced database management and optimization techniques.</li>
+    <li><b>Docker:</b> Gaining proficiency in containerization for streamlined development and deployment workflows.</li>
+    <li><b>Cloud Deployment:</b> Learning to deploy applications on cloud platforms like AWS/GCP/Azure.</li>
+  </ul>
+</div>
+
+<div align="center">
+  <h3>🌟 Open To Opportunities</h3>
+  <p>I am actively looking for roles where I can leverage my skills and grow professionally:</p>
+  <ul>
+    <li>Entry-Level Software Developer Roles</li>
+    <li>Backend Developer Roles</li>
+    <li>Python Developer Roles</li>
+    <li>FastAPI Developer Roles</li>
+    <li>AI/ML Engineer Roles</li>
+    <li>Internships</li>
+    <li>Freelance Opportunities</li>
+  </ul>
+</div>
+
+<div align="center">
+  <!--VISITOR_START-->
+  <a href="https://github.com/GresuRaju">
+    <img src="https://komarev.com/ghpvc/?username=GresuRaju&color=6366f1" alt="Profile views" />
+  </a>
+  <!--VISITOR_END-->
+</div>
+
+<div align="center">
+  <!--SOCIAL_START-->
+  <h3>🤝 Let's Connect!</h3>
+  <p>
+    <a href="https://www.linkedin.com/in/gresu-raju-talari-0b4711298/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="https://github.com/GresuRaju" target="_blank">
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    </a>
+    <a href="mailto:gresuraju.dev@email.com">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+  </p>
+  <!--SOCIAL_END-->
+</div>
