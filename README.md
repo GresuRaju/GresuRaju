@@ -1,7 +1,12 @@
 <div align="center">
+
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=F5F5F5&width=650&lines=Hi+there,+I'm+Gresu+Raju+Talari!;A+Backend+%26+AI%2FML+Enthusiast;B.Tech+AI+%26+ML+Graduate;Passionate+about+building+solutions." alt="Typing SVG" />
+    <img
+      src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=👋+Hi+there,+I'm+Gresu+Raju+Talari!;🚀+Backend+Developer+%7C+FastAPI+%7C+Python;🤖+AI+%26+Machine+Learning+Enthusiast;💡+Passionate+about+Building+Scalable+Solutions;🌱+Always+Learning+and+Growing"
+      alt="Typing SVG"
+    />
   </a>
+
 </div>
 
 <div align="center">
